@@ -275,7 +275,7 @@
     <string name="download_pending">Starting download…</string>
     <string name="dump_nav">Dump navigation cache</string>
     <string name="dump_counters">Dump V8 counters</string>
-    <string name="homepage_base">http://www.51cube.com</string>
+    <string name="homepage_base">http://www.google.de/</string>
     <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
     <string name="picasa">Picasa</string>
     <string name="search_the_web">Search the web</string>
